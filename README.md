@@ -3,7 +3,7 @@
 <h2 align="center" >Hey Im Tom 👋</h2>
 <p align="center">
     <img style="width: 20%" src="./assets/img/logo.svg">
-    <h4 align="center" >Currently I am 19 years old and live in Bavaria, Germany. <br /> I'm doing an apprenticeship as an IT specialist for software development</h4>
+    <h4 align="center" >Currently I am 20 years old and live in Bavaria, Germany. <br /> I'm doing an apprenticeship as an IT specialist for software development</h4>
 </p>
 
 <p align="center">
